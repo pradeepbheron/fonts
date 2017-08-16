@@ -1,0 +1,2 @@
+# fonts
+TradeGothicLTStd-BdCn20
